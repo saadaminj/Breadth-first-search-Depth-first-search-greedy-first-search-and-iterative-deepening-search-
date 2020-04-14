@@ -1,0 +1,17 @@
+
+
+
+Source : Arad       Destination : Bucharest
+BFS : Cost = 465 Goal Reached ['Arad', 'Zerind', 'Timisoara', 'Sibiu', 'Oradea', 'Lugoj', 'Rimnicu Vilcea', 'Fagaras', 'Mehadia', 'Craiova', 'Pitesti', 'Bucharest']GFS : Cost = 450 Goal Reached ['Arad', 'Sibiu', 'Fagaras', 'Bucharest']UFS : Cost = 418 Goal Reached ['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest']iDFS : Cost = 450 Goal Reached ['Arad', 'Sibiu', 'Fagaras', 'Bucharest']
+IN ASCENDING ORDER
+
+
+
+Source : Arad       Destination : Neamt
+BFS : Cost = 650 Goal Reached ['Arad', 'Zerind', 'Timisoara', 'Sibiu', 'Oradea', 'Lugoj', 'Rimnicu Vilcea', 'Fagaras', 'Mehadia', 'Craiova', 'Pitesti', 'Bucharest', 'Drobeta', 'Giurgiu', 'Urziceni', 'Hirsova', 'Vaslui', 'Eforie', 'Lasi', 'Neamt']GFS : Failed to reach GoalUFS : Cost = 824 Goal Reached ['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Vaslui', 'Lasi', 'Neamt']iDFS : Cost = 856 Goal Reached ['Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Vaslui', 'Lasi', 'Neamt']
+IN ASCENDING ORDER
+
+
+
+Source : Arad       Destination : Lasi
+BFS : Cost = 563 Goal Reached ['Arad', 'Zerind', 'Timisoara', 'Sibiu', 'Oradea', 'Lugoj', 'Rimnicu Vilcea', 'Fagaras', 'Mehadia', 'Craiova', 'Pitesti', 'Bucharest', 'Drobeta', 'Giurgiu', 'Urziceni', 'Hirsova', 'Vaslui', 'Eforie', 'Lasi']GFS : Failed to reach GoalUFS : Cost = 737 Goal Reached ['Arad', 'Sibiu', 'Rimnicu Vilcea', 'Pitesti', 'Bucharest', 'Urziceni', 'Vaslui', 'Lasi']iDFS : Cost = 769 Goal Reached ['Arad', 'Sibiu', 'Fagaras', 'Bucharest', 'Urziceni', 'Vaslui', 'Lasi']
